@@ -35,3 +35,5 @@ This project not only strengthened my understanding of collaborative filtering a
 ![Image](https://github.com/user-attachments/assets/80de4dfc-0786-485c-9974-cfac3a6ae802)
 
 ![Image](https://github.com/user-attachments/assets/0df1941f-4ce4-4f04-85fe-5243027b59f3)
+
+![Image](https://github.com/user-attachments/assets/245e5139-047c-4213-a52a-67852daa229e)
