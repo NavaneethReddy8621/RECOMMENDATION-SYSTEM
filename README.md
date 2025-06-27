@@ -31,3 +31,5 @@ Throughout the project, I followed best practices in software development and ma
 This project not only strengthened my understanding of collaborative filtering and matrix factorization but also gave me hands-on experience in deploying machine learning models for real-world use. The final deliverables include a Jupyter Notebook showcasing the full implementation and evaluation of the recommendation system and a Streamlit app that demonstrates the system’s functionality in an interactive environment. Overall, this end-to-end system highlights the power of collaborative filtering in delivering personalized recommendations and lays the groundwork for more advanced recommender system development in the future.
 
 *OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/80de4dfc-0786-485c-9974-cfac3a6ae802)
